@@ -1,0 +1,232 @@
+msgid ""
+msgstr ""
+
+"Project-Id-Version:  ckanext-group-label\n"
+"Report-Msgid-Bugs-To: http://trac.ckan.org/\n"
+"POT-Creation-Date: 2016-12-15 11:05+0100\n"
+"PO-Revision-Date: 2013-12-04 11:44+0100\n"
+"Last-Translator: etj <emanuele.tajariol@geosolutionsgroup.com>\n"
+"Language-Team: Italian "
+"(http://www.transifex.com/projects/p/ckan/language/it/)\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 0.9.6\n"
+
+
+msgid "This group has no description"
+msgstr "Questa categoria non ha una descrizione"
+
+msgid "Largest Groups"
+msgstr "Categorie più numerose"
+
+msgid "Group"
+msgstr "Categoria"
+
+msgid "No groups"
+msgstr "Nessuna categoria"
+
+msgid "Group not found"
+msgstr "Categoria non trovata"
+
+msgid "Incorrect group type"
+msgstr "Tipo di categoria errata"
+
+msgid "Groups"
+msgstr "Categorie"
+
+msgid "Unauthorized to create a group"
+msgstr "Non sei autorizzato a creare una categoria"
+
+msgid "Unauthorized to delete group %s"
+msgstr "Non autorizzato a eliminare la categoria %s"
+
+msgid "Group has been deleted."
+msgstr "La categoria è stato eliminata."
+
+msgid "Unauthorized to create group %s members"
+msgstr "Non si hanno le autorizzazioni per creare membri nella categoria %s"
+
+msgid "Unauthorized to add member to group %s"
+msgstr "Non sei autorizzato ad aggiungere membri alla categoria %s"
+
+msgid "Unauthorized to delete group %s members"
+msgstr "Non sei autorizzato a eliminare membri dalla categoria %s"
+
+msgid "Group member has been deleted."
+msgstr "Il membro della categoria gruppo e' stato eliminato."
+
+msgid "CKAN Group Revision History"
+msgstr "Cronologia delle modifiche nella categoria"
+
+msgid "Recent changes to CKAN Group: "
+msgstr "Modifiche recenti alla categoria CKAN:"
+
+msgid "group"
+msgstr "categoria"
+
+msgid "That group name or ID does not exist."
+msgstr "Il nome della categoria o l'ID non esistono."
+
+msgid "Group name already exists in database"
+msgstr "Una categoria con questo nome esiste già nel database"
+
+msgid "Trying to create an organization as a group"
+msgstr "Prova a create una organizzazione come categoria"
+
+msgid "You must be logged in to follow a group."
+msgstr "Devi essere autenticato per seguire una categoria."
+
+msgid "User %s not authorized to edit these groups"
+msgstr "L'utente %s non è autorizzato a modificare queste categorie"
+
+msgid "User %s not authorized to create groups"
+msgstr "L'utente %s non è autorizzato a creare caterie"
+
+msgid "Group was not found."
+msgstr "Categoria non trovata."
+
+msgid "User %s not authorized to edit group %s"
+msgstr "L'utente %s non è autorizzato a modificare la categoria %s"
+
+msgid "User %s not authorized to delete groups"
+msgstr "L'utente %s non è autorizzato a eliminare le categorie"
+
+msgid "User %s not authorized to delete group %s"
+msgstr "L'utente %s non è autorizzato a eliminare la categoria %s"
+
+msgid "User %s not authorized to read group %s"
+msgstr "L'utente %s non è autorizzato a leggere la categoria %s"
+
+msgid "User %s not authorized to change state of group %s"
+msgstr "L'utente %s non è autorizzato a cambiare lo stato della categoria %s"
+
+msgid "User %s not authorized to edit permissions of group %s"
+msgstr "L'utente %s non è autorizzato a modificare i permessi della categoria %s"
+
+msgid "Deleted groups"
+msgstr "Categorie eliminate"
+
+msgid "Add a Group"
+msgstr "Aggiungi una categoria"
+
+msgid "Group Form"
+msgstr "Modulo categoria"
+
+msgid "Are you sure you want to delete group - {name}?"
+msgstr "Sei sicuro di voler eliminare la categoria - {name}?"
+
+msgid "Edit Group"
+msgstr "Modifica categoria"
+
+msgid "Add Group"
+msgstr "Aggiungi una categoria"
+
+msgid "Search groups..."
+msgstr "Cerca categorie..."
+
+msgid "There are currently no groups for this site"
+msgstr "Al momento non ci sono categorie per questo sito"
+
+msgid "Create a Group"
+msgstr "Crea una categoria"
+
+msgid "Update Group"
+msgstr "Aggiorna categoria"
+
+msgid "Create Group"
+msgstr "Crea categoria"
+
+msgid "Datasets in group: {group}"
+msgstr "Dataset nella categoria: {group}"
+
+msgid "My Group"
+msgstr "Categoria Mia"
+
+msgid "A little information about my group..."
+msgstr "Alcune informazioni sulla mia categoria..."
+
+msgid "Are you sure you want to delete this Group?"
+msgstr "Sei sicuro di voler cancellare questa categoria?"
+
+msgid "Save Group"
+msgstr "Salva categoria"
+
+msgid "Remove dataset from this group"
+msgstr "Elimina il dataset da questa categoria"
+
+msgid "What are Groups?"
+msgstr "Cosa sono la Categorie?"
+
+msgid "groups"
+msgstr "categorie"
+
+msgid "Associate this group with this dataset"
+msgstr "Associa questa categoria con questo dataset"
+
+msgid "Add to group"
+msgstr "Aggiungi alla categoria"
+
+msgid "There are no groups associated with this dataset"
+msgstr "Non ci sono categorie associate a questo dataset"
+
+msgid "{number} group found for \"{query}\""
+msgid_plural "{number} groups found for \"{query}\""
+msgstr[0] "{number} categoria trovata per \"{query}\""
+msgstr[1] "{number} categorie trovate per \"{query}\""
+
+msgid "No groups found for \"{query}\""
+msgstr "Nessuna categoria trovata per \"{query}\""
+
+msgid "{number} group found"
+msgid_plural "{number} groups found"
+msgstr[0] "{number} categoria trovata"
+msgstr[1] "{number} categorie trovate"
+
+msgid "No groups found"
+msgstr "Nessuna categoria trovata"
+
+msgid "{actor} updated the group {group}"
+msgstr "{actor} ha aggiornato la categoria {group}"
+
+msgid "{actor} deleted the group {group}"
+msgstr "{actor} ha eliminato la categoria {group}"
+
+msgid "{actor} created the group {group}"
+msgstr "{actor} ha creato la categoria {group}"
+
+msgid "My Groups"
+msgstr "Le mie categorie"
+
+msgid "You are not a member of any groups."
+msgstr "Non sei membro di alcuna categoria"
+
+msgid "Create datasets, groups and other exciting things"
+msgstr "Crea dei dataset, categorie e altre cose interessanti"
+
+msgid ""
+"You can use CKAN Groups to create and manage collections of datasets. This "
+"could be to catalogue datasets for a particular project or team, or on a "
+"particular theme, or as a very simple way to help people find and search "
+"your own published datasets."
+msgstr ""
+"Puoi usare le categorie di CKAN per creare e gestire collezioni di dataset, come"
+" un catalogo di dataset di un progetto o di un team, su un particolare "
+"argomento o semplicemente come un modo semplice per consentire di trovare e "
+"cercare i dataset che hai pubblicato."
+
+msgid ""
+"Purge deleted datasets, organizations or groups forever and irreversibly."
+msgstr ""
+"Elimina definitivamente ed irreversibilmente dataset, organizzazioni e categorie."
+
+msgid ""
+"<p><strong>Admin:</strong> Can edit group information, as well as manage "
+"organization members.</p> <p><strong>Member:</strong> Can add/remove "
+"datasets from groups</p>"
+msgstr ""
+" <p><strong>Amministratore:</strong> Può modificare le informazioni della "
+"categoria e gestire i membri delle organizzazioni.</p> "
+"<p><strong>Membro:</strong> Può aggiungere e modificare i dataset delle "
+"categorie</p> "

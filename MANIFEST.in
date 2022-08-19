@@ -1,0 +1,3 @@
+include README.md
+recursive-include ckanext/grouplabel *.html *.json *.js *.less *.css *.jpg *.png
+recursive-include ckanext/grouplabel/i18n *
